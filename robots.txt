@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohceejeec.miracletech.online/sitemap.xml
